@@ -1,5 +1,5 @@
 
-> Open this page at [https://lemonyte.github.io/marble-roller/](https://lemonyte.github.io/marble-roller/)
+> Open this page at [https://cloverdale-robotics-learning.github.io/marble-roller/](https://cloverdale-robotics-learning.github.io/marble-roller/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/lemonyte/marble-roller** and import
+* search for **https://github.com/cloverdale-robotics-learning/marble-roller** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/lemonyte/marble-roller** and click import
+* paste **https://github.com/cloverdale-robotics-learning/marble-roller** and click import
 
 #### Metadata (used for search, rendering)
 
